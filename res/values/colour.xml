@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="start">#F3F7BF</color>
+    <color name="end">#FFFFF2</color>
+    <color name="activity_slider_divider_text">#FA9191</color>
+    <color name="activity_slider_divider_color">#80A1F5</color>
+    <color name="slider_header_colour">#D28989</color>
+    <color name="slider_event_colour">#F2F4C9</color>
+    <color name="slider_event_color_active">#5BF360</color>
+    <color name="red">#FA5151</color>
+
+</resources>
